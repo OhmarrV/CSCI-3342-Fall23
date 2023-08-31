@@ -1,0 +1,73 @@
+ul li{
+    list-style: none;
+}
+
+.list-num{
+    font-size: large;
+    font-weight: bold;
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+
+.flexbox-container{
+    display: flex;
+    list-style-type:none;
+    width:50%;
+    margin-left: 2%;
+    margin-right: 60%;
+    padding: 0;
+    overflow: hidden;
+}
+
+#one{
+    color: orangered;
+    font-size: 60px;
+}
+
+
+table{
+    width: 50%;
+    height: 150%;
+}
+
+td{
+    display: table-cell;
+    vertical-align: inherit;
+    text-align: center;
+}
+
+th{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+span{
+    color: orange;
+}
+
+#honorable{
+    color: orange;
+    font-style: italic;
+    font-size: 25px;
+}
+
+header{
+    background-color: orange;
+    color: white;
+    border-style: groove;
+    border-color: rgba(255, 102, 0, 0.774);
+    text-align: center;
+}
+
+a:visited{
+    color: orangered;
+}
+a:hover{
+    color: orange;
+}
+
